@@ -1,0 +1,22 @@
+{
+  "amount": 111,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id_product": 1,
+      "product_name": "mango men t-shirt",
+      "rank": 4.5,
+      "price": 52,
+      "img": "Layer_2.jpg",
+      "quantity": 1
+    },
+    {
+      "id_product": 2,
+      "product_name": "women red blouse",
+      "rank": 4.5,
+      "price": 59,
+      "img": "Layer_3.jpg",
+      "quantity": 1
+    }
+  ]
+}
